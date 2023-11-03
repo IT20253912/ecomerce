@@ -20,9 +20,9 @@ echo <<<EOT
 	<body>
         <header class="header">
             <div class="content-wrapper">
-                <h1>Gem Marketplace</h1>
+                <h1>Shoo Marketplace</h1>
                 <nav>
-                    <a href="index.php">Home</a>
+                 
                     <a href="index.php?page=products">Products</a>
                 </nav>
                 <div class="link-icons">
