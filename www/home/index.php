@@ -160,7 +160,7 @@
           </p>
 
           <button class="btn btn-primary">
-            <span>Shop Now</span>
+            <span><a href="../cart/index.php?page=products">Shop Now</a></span>
 
             <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
           </button>
@@ -185,7 +185,7 @@
               <div class="collection-card" style="background-image: url('./assets/images/collection-1.jpg')">
                 <h3 class="h4 card-title">Men Collections</h3>
 
-                <a href="#" class="btn btn-secondary">
+                <a href="../cart/index.php?page=products" class="btn btn-secondary">
                   <span>Explore All</span>
 
                   <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
@@ -197,7 +197,7 @@
               <div class="collection-card" style="background-image: url('./assets/images/collection-2.jpg')">
                 <h3 class="h4 card-title">Women Collections</h3>
 
-                <a href="#" class="btn btn-secondary">
+                <a href="../cart/index.php?page=products" class="btn btn-secondary">
                   <span>Explore All</span>
 
                   <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
@@ -209,7 +209,7 @@
               <div class="collection-card" style="background-image: url('./assets/images/collection-3.jpg')">
                 <h3 class="h4 card-title">Sports Collections</h3>
 
-                <a href="#" class="btn btn-secondary">
+                <a href="../cart/index.php?page=products" class="btn btn-secondary">
                   <span>Explore All</span>
 
                   <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
@@ -237,9 +237,7 @@
 
           <ul class="filter-list">
 
-            <li>
-              <button class="filter-btn  active">All</button>
-            </li>
+            
 
             <li>
               <button class="filter-btn">Nike</button>
@@ -793,7 +791,7 @@
 
                 <h3 class="h2 card-title">The Summer Sale Off 50%</h3>
 
-                <a href="#" class="btn btn-link">
+                <a href="../cart/index.php?page=products" class="btn btn-link">
                   <span>Shop Now</span>
 
                   <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
@@ -807,7 +805,7 @@
 
                 <h3 class="h2 card-title">Makes Yourself Keep Sporty</h3>
 
-                <a href="#" class="btn btn-link">
+                <a href="../cart/index.php?page=products" class="btn btn-link">
                   <span>Shop Now</span>
 
                   <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
@@ -834,7 +832,7 @@
           <div class="special-banner" style="background-image: url('./assets/images/special-banner.jpg')">
             <h2 class="h3 banner-title">New Trend Edition</h2>
 
-            <a href="#" class="btn btn-link">
+            <a href="../cart/index.php?page=products" class="btn btn-link">
               <span>Explore All</span>
 
               <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
@@ -1493,7 +1491,7 @@
       <div class="container">
 
         <p class="copyright">
-          &copy; 2022 <a href="#" class="copyright-link">codewithsadee</a>. All Rights Reserved
+          &copy; 2023 . All Rights Reserved
         </p>
 
       </div>
