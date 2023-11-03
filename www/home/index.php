@@ -85,7 +85,7 @@
           </li>
 
           <li class="navbar-item">
-            <a href="#" class="navbar-link">Contact</a>
+            <a href="../seller/auth" class="navbar-link">Seller Login</a>
           </li>
 
         </ul>
